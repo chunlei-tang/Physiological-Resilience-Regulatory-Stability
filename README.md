@@ -53,4 +53,30 @@ Exploratory machine-learning analyses evaluated regulatory-pattern classificatio
 
 The reported XGBoost AUC was 0.7245 for regulatory-pattern classification.
 
-This result
+This result should not be interpreted as discrimination of all-cause mortality. An independently verified mortality-prediction AUC is not available.
+
+## Repository status and reproducibility
+
+This repository is being established to organize study-related documentation and analysis materials that can be verified and released.
+
+The complete original data-processing, feature-selection, and modeling pipeline has not yet been independently reconstructed or deposited in this repository. Accordingly, the repository should not currently be considered a fully reproducible implementation of the published analyses.
+
+Additional materials may be added following verification and appropriate review.
+
+## Data availability
+
+Individual-level health records are not publicly distributed because they contain sensitive personal health information.
+
+Any access to underlying research data is subject to applicable institutional, ethical, and data-governance approvals.
+
+## Code availability
+
+Verified analysis code and supporting documentation will be made available in this repository as appropriate. At present, the complete original analysis code is not available here.
+
+## Citation
+
+If you use or refer to this work, please cite the accompanying manuscript:
+
+*Quantifying Physiological Resilience as System-Level Regulatory Stability in Longitudinal Multi-System Dynamics.*
+
+Full bibliographic information will be added when available.
